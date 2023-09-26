@@ -1,4 +1,4 @@
-# Fundamentals Of DataAnalysis CeciliaPastore
+# Fundamentals Of Data Analysis CeciliaPastore
 Fundamental Of Data Analytics Repository
 
 - this is a list 
