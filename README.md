@@ -3,7 +3,7 @@ Fundamental Of Data Analytics Repository
 
 - this is a list 
 - one 
-- tw0 
+- two
 - three
 
 ***
@@ -11,3 +11,5 @@ Fundamental Of Data Analytics Repository
 1. one 
 2. two 
 3. three 
+
+Ciao
